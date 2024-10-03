@@ -1,1 +1,6 @@
 theme: minima
+description: "Documentation and guides for the Quincy Discord bot"
+minima:
+  skin: dark # or 'light' for the light skin
+  header: true
+  social_links: false
