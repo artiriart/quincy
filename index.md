@@ -1,4 +1,4 @@
 ---
-title: Quincybot TOS
+title: random Website idk
 ---
 
