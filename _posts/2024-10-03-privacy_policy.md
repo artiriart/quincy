@@ -56,7 +56,7 @@ You have the right to:
 - **Request Data Access**: You may ask what data has been collected related to your use of **Quincy**.
 - **Request Data Deletion**: You may request the deletion of your data, subject to certain exceptions (such as data required by law or essential to the Bot's core functionality).
 
-To exercise these rights, please contact us at [Your Email or Discord Contact]. We will respond to your request within a reasonable timeframe.
+To exercise these rights, please contact us at Discord:**@artiriart**. We will respond to your request within a reasonable timeframe.
 
 ## 6. Changes to This Privacy Policy
 
@@ -64,7 +64,7 @@ We may update this Privacy Policy from time to time to reflect changes to our da
 
 ## 7. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [Your Email or Discord].
+If you have any questions or concerns about this Privacy Policy, please contact us at Discord:**@artiriart**.
 
 ---
 
