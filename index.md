@@ -1,4 +1,4 @@
 ---
-title: random Website idk
+title: quincybot website
 ---
 
