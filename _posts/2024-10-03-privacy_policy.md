@@ -15,11 +15,10 @@ This Privacy Policy explains how **Quincy** (the “Bot”) collects, uses, and 
 When using **Quincy**, certain data may be collected automatically to enable the Bot's functionality and to improve your experience. The types of data collected include:
 
 - **User Data**: We may collect your Discord User ID, username, and relevant interactions with the Bot.
-- **Server Data**: Server IDs, roles, and configurations where the Bot is used may be collected for server-specific features.
-- **Message Data**: The content of messages may be processed when you interact with commands (e.g., moderation actions, requests for information). Only messages relevant to the Bot's functionality are processed, and they are not stored beyond their necessary use unless explicitly stated.
+- **Message Data**: The content of messages may be processed when you interact with commands (e.g., a embeds data gets processed for creating a reminder). Only messages relevant to the Bot's functionality are processed, and they are not stored beyond their necessary use unless explicitly stated.
 - **Bot Logs**: Basic logs (such as errors or command usage) may be stored temporarily to improve performance and troubleshoot issues.
 
-We do **not** collect or store any sensitive personal information, such as passwords, email addresses, or payment information.
+We do **not** collect or store any USER messages and sensitive personal information, such as passwords, email addresses, or payment information.
 
 ## 2. How We Use Your Data
 
@@ -42,10 +41,9 @@ We take reasonable precautions to ensure that your data is stored securely. Howe
 
 ## 4. Sharing Your Information
 
-Your information will not be shared with third parties, except in the following cases:
+Your information will not be shared with third parties, except in the following case:
 
 - **Legal Requirements**: We may disclose your information if required by law or in response to valid requests by public authorities.
-- **Server Owners and Administrators**: Server data may be shared with server owners or administrators to assist in managing and improving their communities.
 
 We do not sell, trade, or otherwise transfer your data to any other parties.
 
